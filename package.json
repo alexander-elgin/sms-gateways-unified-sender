@@ -1,0 +1,22 @@
+{
+  "name": "sms-gateways-unified-sender",
+  "version": "1.0.0",
+  "description": "A set of clients for sms gateways",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexander-elgin/sms-gateways-unified-sender.git"
+  },
+  "main": "src/index.js",
+  "engines": {
+    "npm": ">=3",
+    "node": ">=5"
+  },
+  "author": "Alexander Elgin",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {
+  }
+}
